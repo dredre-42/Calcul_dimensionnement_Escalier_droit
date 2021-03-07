@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>découverte_Visual_Studio</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>stairs.ico</ApplicationIcon>
+    <AssemblyName>Calcul_hauteur_largeur_escalier</AssemblyName>
+  </PropertyGroup>
+
+</Project>
