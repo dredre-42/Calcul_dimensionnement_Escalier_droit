@@ -50,8 +50,8 @@ namespace découverte_Visual_Studio
                 Point ptOrigin = new Point(0, dessin.Height);
                 Point ptavant = ptOrigin;
 
-                string err = "Bonjour" + " André";
-                string err2 = "truc";
+                string err = "Bonjour";
+                string err2 = " truc";
                 err += " !!!!!" + err2;
                 lblerreur.Text = err;
 
